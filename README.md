@@ -1,6 +1,6 @@
 # isoc-dje481-devoir1
 
-# Nom : Valentin MAGDE
+## Nom : Valentin MAGDE
 
 ## Devoir 1 : Gestion des Notes
 
