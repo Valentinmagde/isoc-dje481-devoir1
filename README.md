@@ -1,8 +1,6 @@
-# isoc-dje481-devoir1
+## Devoir 1 : Gestion des Notes
 
 ## Nom : Valentin MAGDE
-
-## Devoir 1 : Gestion des Notes
 
 ## Instructions pour tester le programme :
 1. Cloner le dépôt depuis GitHub ou télécharger les fichiers.
